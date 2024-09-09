@@ -60,6 +60,7 @@ After fitting various models, the **Random Forest model** produced the most accu
 - **Scikit-learn**: For implementing machine learning algorithms, including Linear Regression, Random Forest, and **GridSearchCV** for hyperparameter tuning.
 - **Matplotlib** & **Seaborn**: For data visualization and plotting graphs.
 - **Jupyter Notebook**: For interactive coding and experimentation.
+- The data is from https://www.kaggle.com/datasets/camnugent/california-housing-prices 
 
 ---
 
